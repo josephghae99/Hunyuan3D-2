@@ -213,17 +213,10 @@ def shape_generation(
 def build_app():
     title_html = """
     <div style="font-size: 2em; font-weight: bold; text-align: center; margin-bottom: 5px">
-
-    Hunyuan3D-2: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation
+    Louboutin Demo - Elisabeth Labs
     </div>
     <div align="center">
-    Tencent Hunyuan3D Team
-    </div>
-    <div align="center">
-      <a href="https://github.com/tencent/Hunyuan3D-2">Github Page</a> &ensp; 
-      <a href="http://3d-models.hunyuan.tencent.com">Homepage</a> &ensp;
-      <a href="#">Technical Report</a> &ensp;
-      <a href="https://huggingface.co/Tencent/Hunyuan3D-2"> Models</a> &ensp;
+    DC Films_The Disco Factory Double Dream_2022_Team
     </div>
     """
 
